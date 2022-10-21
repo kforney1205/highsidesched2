@@ -8,9 +8,9 @@
   <Description DefaultValue="This plugin allows for Scheduling High-Side Video Sessions (IL6 and IL7)."/>
   <IconUrl DefaultValue="https://raw.githubusercontent.com/kforney1205/highsidesched2/main/assets/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://raw.githubusercontent.com/kforney1205/highsidesched2/main/assets/icon-128.png"/>
-  <SupportUrl DefaultValue="https://www.contoso.com/help"/>
+  <SupportUrl DefaultValue="https://support.pexip.com"/>
   <AppDomains>
-    <AppDomain>https://support.pexip.com</AppDomain>
+    <AppDomain>https://pexip.com</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox"/>
@@ -94,7 +94,7 @@
         <bt:Url id="Taskpane.Url" DefaultValue="https://kforney1205.github.io/highsidesched2/src/taskpane/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="GroupLabel" DefaultValue="Contoso Add-in"/>
+        <bt:String id="GroupLabel" DefaultValue="High Side Meet"/>
         <bt:String id="TaskpaneButton.Label" DefaultValue="Show Taskpane"/>
         <bt:String id="ActionButton.Label" DefaultValue="Perform an action"/>
       </bt:ShortStrings>
