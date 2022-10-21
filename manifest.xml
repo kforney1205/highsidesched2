@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://raw.githubusercontent.com/kforney1205/highsidesched2/main/taskpane.html"/>
+        <SourceLocation DefaultValue="https://raw.githubusercontent.com/kforney1205/highsidesched2/main/src/taskpane/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
