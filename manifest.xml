@@ -2,15 +2,15 @@
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
   <Id>fc12f867-bd88-443f-b985-b52736d19571</Id>
   <Version>1.0.0.0</Version>
-  <ProviderName>Contoso</ProviderName>
+  <ProviderName>Pexip Federal</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="highsidesched"/>
-  <Description DefaultValue="A template to get started."/>
+  <DisplayName DefaultValue="High Side Meet"/>
+  <Description DefaultValue="This plugin allows for Scheduling High-Side Video Sessions (IL6 and IL7)."/>
   <IconUrl DefaultValue="https://raw.githubusercontent.com/kforney1205/highsidesched2/main/assets/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://raw.githubusercontent.com/kforney1205/highsidesched2/main/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
-    <AppDomain>https://www.contoso.com</AppDomain>
+    <AppDomain>https://support.pexip.com</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox"/>
