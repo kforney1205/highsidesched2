@@ -6,8 +6,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="highsidesched"/>
   <Description DefaultValue="A template to get started."/>
-  <IconUrl DefaultValue="https://localhost:3000/kyle.forney/highsidesched/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://localhost:3000/kyle.forney/highsidesched/assets/icon-128.png"/>
+  <IconUrl DefaultValue="https://raw.githubusercontent.com/kforney1205/highsidesched2/main/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://raw.githubusercontent.com/kforney1205/highsidesched2/main/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
     <AppDomain>https://www.contoso.com</AppDomain>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://localhost:3000/kyle.forney/highsidesched/taskpane.html"/>
+        <SourceLocation DefaultValue="https://raw.githubusercontent.com/kforney1205/highsidesched2/main/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -85,13 +85,13 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://localhost:3000/kyle.forney/highsidesched/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://localhost:3000/kyle.forney/highsidesched/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://localhost:3000/kyle.forney/highsidesched/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://raw.githubusercontent.com/kforney1205/highsidesched2/main/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://raw.githubusercontent.com/kforney1205/highsidesched2/main/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://raw.githubusercontent.com/kforney1205/highsidesched2/main/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://localhost:3000/kyle.forney/highsidesched/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:3000/kyle.forney/highsidesched/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://raw.githubusercontent.com/kforney1205/highsidesched2/main/src/commands/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://raw.githubusercontent.com/kforney1205/highsidesched2/main/src/taskpane/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Contoso Add-in"/>
